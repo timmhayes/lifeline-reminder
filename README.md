@@ -21,6 +21,7 @@ For personal monitoring, the device’s local web interface is available on the 
 ## Demo
 
 A short demo on how the device works is available on YouTube. The video shows the device in action, including the daily reminder and the check-in process.
+
 [![YouTube video link](https://img.youtube.com/vi/AXnR_Kqfq6c/0.jpg)](https://www.youtube.com/watch?v=AXnR_Kqfq6c)
 
 ## Current project status
