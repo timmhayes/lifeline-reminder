@@ -89,7 +89,7 @@ For reliable power delivery:
 
 ## Enclosure and assembly
 
-The STL files are located in the stl folder.
+The [Lifeline enclosure.stl](./stl/Lifeline_enclosure.stl) file is located in the [stl](./stl) folder.
 
 Recommended print settings:
 
